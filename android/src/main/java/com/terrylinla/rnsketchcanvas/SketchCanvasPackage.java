@@ -1,4 +1,4 @@
-package com.terrylinla.rnsketchcanvas;
+package com.gigasz.rnsketchcanvas;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

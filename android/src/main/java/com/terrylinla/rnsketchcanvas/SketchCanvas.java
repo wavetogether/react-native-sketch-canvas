@@ -1,4 +1,4 @@
-package com.terrylinla.rnsketchcanvas;
+package com.gigasz.rnsketchcanvas;
 
 import android.graphics.Typeface;
 import android.graphics.Bitmap;

@@ -3,6 +3,8 @@ react-native-sketch-canvas
 
 A React Native component for drawing by touching on both iOS and Android.
 
+This is a fork from https://github.com/terrylinla/react-native-sketch-canvas
+
 <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYG8E/giphy.gif" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/3ov9jNZooUPTbWWbh6/giphy.gif" height="400" />
 <br/>
 <img src="https://i.imgur.com/lc5WlGz.png" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/NBZvKtp.png" height="400" />
